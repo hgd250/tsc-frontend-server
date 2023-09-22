@@ -1,0 +1,1 @@
+import{_ as o}from"./DetailModal.vue_vue_type_script_setup_true_lang-b130dd24.js";import"./index-6f85bfe1.js";import"./index.js";import"./vue-b9806415.js";import"./antd-15408678.js";import"./useWindowSizeFn-da6b5cad.js";import"./index-bfdd2ebf.js";import"./data-f38ea683.js";import"./useDescription-16817c27.js";export{o as default};
